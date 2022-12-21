@@ -1,0 +1,5 @@
+Simulating an actual cache using c++
+Implented lru replacement policy 
+Implemented a write back with write allocate cache policy
+The instruction set:Example: rd 24 4 Here, rd -> read operation, 24 -> memory location,  4 -> block offset
+Example: wr 67 8 100 Here, wr -> write operation,  67 -> memory location,  8 -> block offset,  100 -> data to be written
